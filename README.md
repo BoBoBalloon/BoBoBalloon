@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I go by BoBo and I have been working quite a bit with Java, most of my repos are private but I have a few public ones
+
+- 🧠 I currently know **Java and Kotlin**
+- 🔭 I’m currently working on **development on my Innovative Items spigot plugin**
+- 🌱 I’m currently learning **web dev with Typescript, HTML and CSS**
+- 💬 Ask me about **Java and Minecraft Protocol**
+- 😄 Pronouns: **He/Him**
+<!-- - 📫 How to reach me: {put discord here} -->
+
 <!--
 **BoBoBalloon/BoBoBalloon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
