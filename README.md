@@ -2,7 +2,7 @@
 
 I go by BoBo and I have been working quite a bit with Java, most of my repos are private but I have a few public ones
 
-- 🧠 I currently know **Java and Kotlin**
+- 🧠 I currently know **Java and a fair bit of Kotlin**
 - 🔭 I’m currently working on **development on my Innovative Items spigot plugin**
 - 🌱 I’m currently learning **web dev with Typescript, HTML and CSS**
 - 💬 Ask me about **Java and Minecraft Protocol**
